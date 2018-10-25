@@ -1,0 +1,19 @@
+.nav{
+    height:50px;
+    border-top:3px solid #FF8500 ;
+    border-bottom: 1px solid #edeef0;
+    margin-bottom: 5px;
+    background-color: #fcfcfc;
+    text-align: center;
+}
+.nav a{
+    line-height: 50px;
+    color: #4c4c4c;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 18px;
+}
+.nav a:hover{
+    background-color: #edeef0;
+    color: #FF8500;
+}

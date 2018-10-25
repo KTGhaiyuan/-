@@ -1,0 +1,27 @@
+.main{
+    background-color: #fffe52;
+    width:100%;
+    max-width:1260px;
+    min-width:755px;
+    margin:0 auto;
+    overflow:hidden
+}
+.meun{
+    width: 14%;
+    background-color: pink;
+    margin-right: 1%;
+    float:left
+}
+.fa{
+
+}
+.bigbox{
+    text-align: center;
+    float: left;
+
+}
+.box {
+    width: 1000px;
+    height: 360px;
+    background-color: lightblue;
+}
